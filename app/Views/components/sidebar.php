@@ -23,7 +23,7 @@
                 <span>Produk</span>
             </a>
         </li><!-- End Produk Nav --> 
-    </ul>
+    
 
         <li class="nav-item">
             <a class="nav-link <?php echo (uri_string() == 'Contact') ? "" : "collapsed" ?>" href="Contact">
@@ -31,5 +31,6 @@
                 <span>Contact</span>
             </a>
         </li><!-- End Keranjang Nav -->
+    </ul> 
 
 </aside><!-- End Sidebar-->
